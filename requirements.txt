@@ -1,0 +1,15 @@
+uproot
+awkward
+vector
+numpy
+pandas
+matplotlib
+scipy
+iminuit
+scikit-learn
+xgboost
+shap
+hist
+mplhep
+particle
+jupyter

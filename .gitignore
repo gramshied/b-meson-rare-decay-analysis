@@ -1,3 +1,72 @@
-data/*.root
-__pycache__/
-*.ipynb_checkpoints
+# =========================
+
+# DATA FILES (CRITICAL)
+
+# =========================
+
+data/
+*.root
+*.csv
+*.h5
+*.hdf5
+*.parquet
+
+# =========================
+
+# PYTHON ENVIRONMENTS
+
+# =========================
+
+venv/
+.env/
+.env
+**pycache**/
+*.pyc
+*.pyo
+
+# =========================
+
+# JUPYTER
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# OS FILES
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# IDE / EDITOR
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# LARGE OUTPUTS (OPTIONAL)
+
+# =========================
+
+
+plots/*.pdf
+
+# =========================
+
+# RESULTS (KEEP SMALL ONLY)
+
+# =========================
+
+# Uncomment if results become large
+
+# results/*.csv
+
+# results/*.json
