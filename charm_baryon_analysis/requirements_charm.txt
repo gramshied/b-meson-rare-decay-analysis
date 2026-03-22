@@ -1,0 +1,15 @@
+uproot
+awkward
+numpy
+pandas
+matplotlib
+scipy
+iminuit
+scikit-learn
+xgboost
+shap
+mplhep
+particle
+boost-histogram
+hist
+zfit
